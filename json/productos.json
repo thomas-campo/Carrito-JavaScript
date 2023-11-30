@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Ryzen 5",
+        "precio": "$ 35000"
+    },
+    {
+        "title": "Intel 5",
+        "precio": "$ 42000"
+    },
+    {
+        "title": "Ryzen 9",
+        "precio": "$ 80000"
+    },
+    {
+        "title": "Gtx 1660",
+        "precio": "$ 60000"
+    },
+    {
+        "title": "Rtx 2060",
+        "precio": "$ 80000"
+    },
+    {
+        "title": "Gtx 6050",
+        "precio": "$ 100000"
+    },
+    {
+        "title": "B450",
+        "precio": "$ 12000"
+    },
+    {
+        "title": "B550",
+        "precio": "$ 15000"
+    },
+    {
+        "title": "H510",
+        "precio": "$ 14000"
+    },
+    {
+        "title": "Gabinete corsair",
+        "precio": "$ 8000"
+    },
+    {
+        "title": "Gabinete thermaltake",
+        "precio": "$ 10000"
+    },
+    {
+        "title": "Gabinete msi",
+        "precio": "$ 15000"
+    },
+    {
+        "title": "Fuente 550W",
+        "precio": "$ 11000"
+    },
+    {
+        "title": "Fuente 600W",
+        "precio": "$ 13000"
+    },
+    {
+        "title": "Fuente 700W",
+        "precio": "$ 16000"
+    }
+]
